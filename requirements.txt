@@ -1,1 +1,10 @@
+### python packages
+    pandas
+    numpy
+    mathplotlib
+    seaborn
+    scikitlearn
 
+### learning type
+     supervised learning
+     regression algorithm
